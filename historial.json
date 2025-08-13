@@ -1,0 +1,16 @@
+[
+  {
+    "base": "USD",
+    "target": "COP",
+    "montoConvertido": 4026.5135,
+    "monto": 1.0,
+    "timestamp": "2025-08-13T11:25:19.3072573"
+  },
+  {
+    "base": "COP",
+    "target": "USD",
+    "montoConvertido": 198.68,
+    "monto": 800000.0,
+    "timestamp": "2025-08-13T11:26:27.4362615"
+  }
+]
