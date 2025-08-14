@@ -1,5 +1,8 @@
 # 💱 Conversor de Monedas - Java API Client
 
+### Desafio Conversor de Monedas Alura Latam - Oracle Next Education
+![Badge-Conversor.png](src/Badge-Conversor.png)
+
 Este proyecto es un **conversor de monedas** desarrollado en Java, el cual utiliza la API de [Exchangerate](https://www.exchangerate-api.com/) para obtener tasas de cambio en tiempo real.  
 Su propósito es mostrar cómo consumir APIs externas, manejar datos en formato JSON usando la librería **GSON**, y aplicar buenas prácticas de programación orientada a objetos.
 
